@@ -26,7 +26,7 @@
 
 ## 📫 Contact
 
-Email: your.email@example.com
+Email: sobitpratel128@gmail.com
 
 ## ⚡ Fun Fact
 
