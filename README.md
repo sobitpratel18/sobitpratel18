@@ -1,33 +1,40 @@
-# 👋 Hi, I'm Sobit Pratel
+# Hi, I'm Sobit Pratel 👋
 
-🎓 B.Sc. CSIT Student from Nepal
+### B.Sc. CSIT Student | Aspiring Software Engineer
 
-💻 Aspiring Full Stack Software Engineer
+I'm a B.Sc. CSIT student interested in software development,
+web development, and building real-world projects.
 
-## 🚀 Currently Learning
-
+🌱 Currently learning:
+- HTML & CSS
+- JavaScript
 - C++
 - Git & GitHub
-- HTML
-- CSS
+
+🚀 My Goal
+
+To become a skilled software engineer by continuously learning,
+building projects, and solving real-world problems.
+
+## 🛠️ Technologies & Tools
+
+- HTML5
+- CSS3
 - JavaScript
-
-## 🎯 Goals
-
-- Build Real-World Projects
-- Contribute to Open Source
-
-## 🛠️ Technologies
-
 - C++
 - Git
 - GitHub
 - VS Code
 
-## 📫 Contact
+## 📌 Featured Project
 
-Email: sobitpratel128@gmail.com
+### Personal Portfolio
 
-## ⚡ Fun Fact
+My personal portfolio website where I showcase my skills,
+projects, and development journey.
 
-I enjoy solving programming problems and building projects that improve my development skills.
+🔗 [View Portfolio](https://sobitpratel18.github.io/portfolio-website/)
+
+## 📫 Connect With Me
+
+- GitHub: [@sobitpratel18](https://github.com/sobitpratel18)
