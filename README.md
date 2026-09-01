@@ -1,40 +1,120 @@
 # Hi, I'm Sobit Pratel 👋
 
-### B.Sc. CSIT Student | Aspiring Software Engineer
+### Aspiring Software Engineer
 
-I'm a B.Sc. CSIT student interested in software development,
-web development, and building real-world projects.
+I'm a B.Sc. CSIT student passionate about building practical software
+projects and improving my programming and problem-solving skills.
 
-🌱 Currently learning:
-- HTML & CSS
-- JavaScript
+Currently focused on becoming a Software Engineer and building projects
+with modern web technologies.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Sc. CSIT Student
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning JavaScript and Full Stack Development
+- 🔧 Interested in Web Development, Backend Development and Software Engineering
+- 📚 Improving Data Structures, Algorithms and Problem Solving
+- 🚀 Building practical projects to improve my development skills
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- C
 - C++
-- Git & GitHub
-
-🚀 My Goal
-
-To become a skilled software engineer by continuously learning,
-building projects, and solving real-world problems.
-
-## 🛠️ Technologies & Tools
-
-- HTML5
-- CSS3
 - JavaScript
-- C++
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Tools & Technologies
 - Git
 - GitHub
 - VS Code
+- REST APIs
+- Vercel
+- GitHub Pages
+- Local Storage
 
-## 📌 Featured Project
+### Currently Learning
+- JavaScript
+- Backend Development
+- Databases
+- Full Stack Development
+- Data Structures and Algorithms
 
-### Personal Portfolio
+---
 
-My personal portfolio website where I showcase my skills,
-projects, and development journey.
+## 📌 Projects
 
-🔗 [View Portfolio](https://sobitpratel18.github.io/portfolio-website/)
+### 🌐 Portfolio Website
+
+My personal portfolio website showcasing my skills, projects and
+software engineering journey.
+
+**Technologies:** HTML, CSS
+
+🔗 Live Demo: YOUR_PORTFOLIO_LINK  
+🔗 GitHub: YOUR_PORTFOLIO_REPO_LINK
+
+---
+
+### 🌦️ Weather App
+
+A weather application that fetches real-time weather information
+using the OpenWeatherMap API.
+
+**Technologies:** HTML, CSS, JavaScript, REST API
+
+**Features:**
+- Search weather by city
+- Temperature display
+- Weather condition
+- Humidity
+- Wind speed
+- Celsius/Fahrenheit conversion
+- API integration
+
+🔗 Live Demo: https://weather-app-two-tau-70.vercel.app/
+
+---
+
+### 💰 Expense Tracker
+
+A browser-based expense tracking application for managing income
+and expenses.
+
+**Technologies:** HTML, CSS, JavaScript, Local Storage
+
+**Features:**
+- Add income
+- Add expenses
+- Calculate balance
+- Transaction history
+- Delete transactions
+- Clear all transactions
+- Persistent data using Local Storage
+- Responsive design
+
+🔗 Live Demo: https://sobitpratel18.github.io/expense-tracker/
+
+---
+
+## 🎯 My Goal
+
+My goal is to become a professional Software Engineer by continuously
+learning, building real-world projects and improving my problem-solving
+skills.
+
+---
 
 ## 📫 Connect With Me
 
-- GitHub: [@sobitpratel18](https://github.com/sobitpratel18)
+- GitHub: https://github.com/sobitpratel18
+- Email: sobitpratel128@gmail.com
