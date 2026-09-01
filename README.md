@@ -60,8 +60,8 @@ software engineering journey.
 
 **Technologies:** HTML, CSS
 
-🔗 Live Demo: YOUR_PORTFOLIO_LINK  
-🔗 GitHub: YOUR_PORTFOLIO_REPO_LINK
+🔗 Live Demo: [YOUR_PORTFOLIO_LINK ](https://sobitpratel18.github.io/portfolio-website/) 
+🔗 GitHub: [YOUR_PORTFOLIO_REPO_LINK](https://github.com/sobitpratel18/portfolio-website)
 
 ---
 
