@@ -1,4 +1,4 @@
-# Hi, I'm Sobit Pratel 👋
+# Hi, I'm Sobit Pratel 
 
 ### Aspiring Software Engineer
 
@@ -10,18 +10,18 @@ with modern web technologies.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Sc. CSIT Student
-- 💻 Aspiring Software Engineer
-- 🌱 Currently learning JavaScript and Full Stack Development
-- 🔧 Interested in Web Development, Backend Development and Software Engineering
-- 📚 Improving Data Structures, Algorithms and Problem Solving
-- 🚀 Building practical projects to improve my development skills
+-  B.Sc. CSIT Student
+-  Aspiring Software Engineer
+-  Currently learning JavaScript and Full Stack Development
+-  Interested in Web Development, Backend Development and Software Engineering
+-  Improving Data Structures, Algorithms and Problem Solving
+-  Building practical projects to improve my development skills
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Programming Languages
 - C
@@ -51,9 +51,9 @@ with modern web technologies.
 
 ---
 
-## 📌 Projects
+##  Projects
 
-### 🌐 Portfolio Website
+###  Portfolio Website
 
 My personal portfolio website showcasing my skills, projects and
 software engineering journey.
@@ -85,7 +85,7 @@ using the OpenWeatherMap API.
 
 ---
 
-### 💰 Expense Tracker
+###  Expense Tracker
 
 A browser-based expense tracking application for managing income
 and expenses.
@@ -106,7 +106,7 @@ and expenses.
 
 ---
 
-## 🎯 My Goal
+##  My Goal
 
 My goal is to become a professional Software Engineer by continuously
 learning, building real-world projects and improving my problem-solving
@@ -114,7 +114,7 @@ skills.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/sobitpratel18
 - Email: sobitpratel128@gmail.com
